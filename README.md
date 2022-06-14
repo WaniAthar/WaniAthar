@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=WaniAthar)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WaniAthar" alt="WaniAthar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WaniAthar" alt="WaniAthar"/></a></p>
 
 [![Github](https://img.shields.io/github/followers/WaniAthar?label=Follow&style=social)](https://github.com/WaniAthar)
 
@@ -28,8 +28,10 @@
 
   </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaniAthar&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaniAthar&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaniAthar&theme=tokyonight) 
+                                                 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WaniAthar&theme=Javascript-dark)](https://git.io/streak-stats)
+                                                 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaniAthar&show_icons=true&theme=tokyonight) 
 
 
