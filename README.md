@@ -27,8 +27,6 @@
 
 
   </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaniAthar&theme=tokyonight) 
                                                  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WaniAthar&theme=Javascript-dark)](https://git.io/streak-stats)
                                                  
