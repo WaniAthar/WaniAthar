@@ -10,7 +10,7 @@
 
 
 <p align="center">
- <a href="http://waniathar.github.io" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="http://atharwani.dev" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/athar-mujtaba-wani-ab0581216" target="_blank" rel="noopener noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2159024400&v=beta&t=dpaLynvZ2NeUb2hNZNXCWDXJ1R-2LkkQ-rMrfhWvNvs" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:atharwani001@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
