@@ -1,5 +1,4 @@
 
-![Banner Image](https://raw.githubusercontent.com/WaniAthar/atharwani/main/Athar%20Wani.png)
 <h1 align="center">Hi 👋, I'm Athar Wani</h1>
 
 ![](https://komarev.com/ghpvc/?username=WaniAthar)
